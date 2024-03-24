@@ -1,3 +1,2 @@
-pickle
-streamlit
-sklearn
+streamlit==1.32.2
+scikit-learn==1.4.1
